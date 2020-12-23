@@ -1,8 +1,10 @@
 <template>
-  <div class="dark OpenSans">
+  <div class="dark OpenSans pb-8 pt-0 md:pt-8 lg:pt-8">
     <div class="mx-0 md:mx-8 lg:mx-8">
       <Hero />
     </div>
+
+    <div class="my-8 hidden md:block lg:block " />
 
     <div
       class="mx-0 md:mx-8 lg:mx-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 mt-12 md:mt-0 lg:mt-0">

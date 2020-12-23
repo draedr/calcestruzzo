@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col md:flex-row lg:flex-row mx-0 md:mx-8 lg:my-8 rounded-none md:rounded-2xl lg:rounded-2xl px-16 py-8 CoffeBackgroundColor shadow-lg">
+  <div class="flex flex-col md:flex-row lg:flex-row mx-0 md:mx-8 lg:mx-8 rounded-none md:rounded-2xl lg:rounded-2xl px-16 py-8 CoffeBackgroundColor shadow-lg">
     <img
       src="~/assets/avatar.png"
       class="shadow block border-4 border-black border-opacity-25 rounded-full h-48 w-48 mx-auto AppearEffect" />
@@ -13,7 +13,7 @@
         class="mb-4"
         type="Twitter"
         contact_name="@azurelighting"
-        contact_url="twitter.com/azurelighting" />
+        contact_url="https://twitter.com/azurelighting" />
 
       <hero-contact
         class="mb-4"
